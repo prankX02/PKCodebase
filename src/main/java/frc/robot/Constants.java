@@ -7,7 +7,7 @@ import edu.wpi.first.wpilibj.Alert.AlertType;
 import edu.wpi.first.wpilibj.RobotBase;
 
 public class Constants {
-        public static enum Mode {
+    public static enum Mode {
         /** Running on a real robot. */
         REAL,
  
